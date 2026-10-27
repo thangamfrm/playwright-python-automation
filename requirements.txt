@@ -1,0 +1,5 @@
+requests
+playwright
+pytest
+pytest-check
+Faker

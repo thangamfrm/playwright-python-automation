@@ -1,0 +1,5 @@
+.idea/
+*overrides.cfg
+__pycache__
+.venv
+
